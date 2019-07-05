@@ -7,18 +7,23 @@
 # Header 1
 This will be my first try
 ## Header 2
-Headline 2
+and have got a  result at last
 ### Header 3
-Headline 3
+these things dont come easily any more
 
 - Bulleted
+just assumed that changes were registered instantly.
+and just how wrong can a poorboy be
 - List
 
 1. Numbered
-one
-two
-three
-four
+1one
+
+2two
+
+3three
+
+4four
 2. List
 apples
 pears
